@@ -9,6 +9,12 @@
             "firstPage": "/August/1.jpg",
             "view": "/Bulletin/August",
             "total": 14
+        },
+        {
+            "no": 3,
+            "firstPage": "/September/1.jpg",
+            "view": "/Bulletin/September",
+            "total": 13
         }
     ]
 }
