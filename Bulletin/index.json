@@ -23,6 +23,12 @@
       "firstPage": "/October/1.jpg",
       "view": "/Bulletin/October",
       "total": 13
+    },
+    {
+      "no": 5,
+      "firstPage": "/November/1.jpg",
+      "view": "/Bulletin/November",
+      "total": 17
     }
   ]
 }
