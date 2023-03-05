@@ -41,6 +41,12 @@
       "firstPage": "/January/1.jpg",
       "view": "/Bulletin/January",
       "total": 9
+    },
+    {
+      "no": 8,
+      "firstPage": "/February/1.jpg",
+      "view": "/Bulletin/February",
+      "total": 8
     }
   ]
 }
