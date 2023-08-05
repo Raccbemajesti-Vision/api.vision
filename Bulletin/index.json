@@ -59,16 +59,24 @@
       "firstPage": "/April/1.jpg",
       "view": "/Bulletin/April",
       "total": 7
-    },{
+    },
+    {
       "no": 11,
       "firstPage": "/May/1.jpg",
       "view": "/Bulletin/May",
       "total": 7
-    },{
+    },
+    {
       "no": 12,
       "firstPage": "/June/1.jpg",
       "view": "/Bulletin/June",
       "total": 9
+    },
+    {
+      "no": 13,
+      "firstPage": "/Scrapbook/1.jpg",
+      "view": "/Bulletin/Scrapbook",
+      "total": 157
     }
   ]
 }
